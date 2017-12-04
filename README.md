@@ -1,13 +1,13 @@
 Avalicao da disciplina de topicos especiais em sistema de informacao ADS IFPI
 
-questao 1
-frequencia dos nomes ibge
+questao 1 /n
+frequencia dos nomes ibge /n
 python questao1.py nome sexo[m,f]
 
-questao 2
-empresas punidas portal da transparencia
-python questao2.py sigla_do_estado
+questao 2 /n
+empresas punidas portal da transparencia /n
+python questao2.py sigla_do_estado /n
 
-questao 3
-noticias do portal do governo do piaui
-python questao3.py
+questao 3 /n
+noticias do portal do governo do piaui /n
+python questao3.py /n

@@ -1,6 +1,6 @@
 Avalicao da disciplina de topicos especiais em sistema de informacao ADS IFPI
 
-questao 1 /n
+questao 1 <br>
 frequencia dos nomes ibge /n
 python questao1.py nome sexo[m,f]
 
